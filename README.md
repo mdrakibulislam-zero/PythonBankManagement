@@ -1,4 +1,4 @@
-## Python Bank Management
+## Python Bank Management:
 This is a simple bank management system based on Python. It's able to do basic operations of simple bank management.
 
 
